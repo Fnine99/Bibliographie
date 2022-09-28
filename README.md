@@ -1,2 +1,5 @@
-# IFT-1006_TP4
-ift-1006/1003 E22 Franck
+IFT-1006 / IFT-1003
+
+
+
+Franck Sany Kong & Pierre-Michel Goma
